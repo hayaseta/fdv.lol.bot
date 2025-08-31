@@ -1,0 +1,16 @@
+[
+  {
+    "mint": "BrEiwuaLCuG7nG9bMuDg9ihp6sisvD6DCqNjrudHxmzg",
+    "symbol": "RENO",
+    "name": "RENOVATION",
+    "tagline": "Community pick of the day.",
+    "logo": "https://raw.githubusercontent.com/builders-toronto/renovation.reviews/refs/heads/main/assets/reno_logo_200.png",
+    "website": "https://renovation.reviews",
+    "socials": [
+      {"platform":"x","url":"https://x.com/lfbuilders"},
+      {"platform":"telegram","url":"https://t.me/renovationcommunity"}
+    ],
+    "cta": "Trade",
+    "weight": 2
+  }
+]
